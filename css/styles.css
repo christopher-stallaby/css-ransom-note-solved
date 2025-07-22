@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Piazzolla&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Ceviche+One&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Raleway+Dots&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Piazzolla&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ceviche+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway+Dots&display=swap");
 
 * {
   padding: 0;
@@ -59,7 +59,7 @@ body {
   color: aqua;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 
 .whyHLetter {
@@ -68,7 +68,7 @@ body {
   color: darkgoldenrod;
   text-decoration: overline;
   text-transform: lowercase;
-  font-family: 'Ceviche One', sans-serif;
+  font-family: "Ceviche One", sans-serif;
 }
 
 .whyYLetter {
@@ -77,7 +77,7 @@ body {
   color: coral;
   text-decoration: none;
   text-transform: uppercase;
-  font-family: 'Raleway Dots', sans-serif;
+  font-family: "Raleway Dots", sans-serif;
 }
 
 /* DID word */
@@ -89,13 +89,13 @@ body {
 }
 
 .didILetter {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   text-transform: uppercase;
   font-size: 25px;
 }
 
 .didDTwoLetter {
-  font-family: 'Xerox Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: "Xerox Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 40px;
   color: red;
 }
@@ -113,11 +113,12 @@ body {
 .theHLetter {
   text-decoration: line-through;
   font-size: 85px;
-  color:cornflowerblue;
+  color: cornflowerblue;
 }
 
 .theELetter {
-  text-shadow: #000000 2px 2px 4px, #000000 -2px -2px 4px, #000000 2px -2px 4px, #000000 -2px 2px 4px;
+  text-shadow: #000000 2px 2px 4px, #000000 -2px -2px 4px, #000000 2px -2px 4px,
+    #000000 -2px 2px 4px;
 }
 
 /* FRONT-END word */
@@ -140,11 +141,12 @@ body {
 .frontendOLetter {
   text-transform: uppercase;
   font-size: 50px;
-  text-shadow: #000000 2px 2px 4px, #000000 -2px -2px 4px, #000000 2px -2px 4px, #000000 -2px 2px 4px;
+  text-shadow: #000000 2px 2px 4px, #000000 -2px -2px 4px, #000000 2px -2px 4px,
+    #000000 -2px 2px 4px;
 }
 
 .frontendNLetter {
-  font-family: 'piazzolla', sans-serif;
+  font-family: "piazzolla", sans-serif;
   text-transform: uppercase;
   font-size: 60px;
   color: darkorange;
@@ -156,14 +158,13 @@ body {
   text-decoration-line: underline;
   text-decoration-thickness: 5px;
   text-decoration-color: #579463;
-
 }
 
 .frontendELetter {
   text-transform: uppercase;
   font-style: oblique;
   font-size: 80px;
-  color: #267495
+  color: #267495;
 }
 
 .frontendNTwoLetter {
@@ -171,7 +172,8 @@ body {
   color: #ff6347;
   text-decoration: line-through;
   text-decoration-color: #8b0000;
-  text-shadow: #000000 2px 2px 4px, #000000 -2px -2px 4px, #000000 2px -2px 4px, #000000 -2px 2px 4px;
+  text-shadow: #000000 2px 2px 4px, #000000 -2px -2px 4px, #000000 2px -2px 4px,
+    #000000 -2px 2px 4px;
 }
 
 .frontendDLetter {
@@ -198,7 +200,8 @@ body {
   font-size: 55px;
   color: #8a2be2;
   text-decoration: line-through;
-  text-shadow: #000000 2px 2px 4px, #000000 -2px -2px 4px, #000000 2px -2px 4px, #000000 -2px 2px 4px;
+  text-shadow: #000000 2px 2px 4px, #000000 -2px -2px 4px, #000000 2px -2px 4px,
+    #000000 -2px 2px 4px;
 }
 .developerETwoLetter {
   font-size: 65px;
@@ -219,7 +222,8 @@ body {
   text-decoration: overline;
   text-decoration-style: double;
   text-decoration-style: dashed;
-  text-shadow: #000000 2px 2px 4px, #000000 -2px -2px 4px, #000000 2px -2px 4px, #000000 -2px 2px 4px;
+  text-shadow: #000000 2px 2px 4px, #000000 -2px -2px 4px, #000000 2px -2px 4px,
+    #000000 -2px 2px 4px;
 }
 .developerPLetter {
   font-size: 70px;
@@ -227,7 +231,6 @@ body {
   text-decoration: wavy underline;
   text-decoration-style: double;
   text-decoration-color: #ff96b9;
-  
 }
 .developerEThreeLetter {
   font-size: 80px;
@@ -235,7 +238,8 @@ body {
   text-decoration: solid underline;
   text-decoration-color: #ffa500;
   text-transform: uppercase;
-  text-shadow: #000000 2px 2px 4px, #000000 -2px -2px 4px, #000000 2px -2px 4px, #000000 -2px 2px 4px;
+  text-shadow: #000000 2px 2px 4px, #000000 -2px -2px 4px, #000000 2px -2px 4px,
+    #000000 -2px 2px 4px;
 }
 .developerRLetter {
   text-transform: uppercase;
@@ -276,16 +280,17 @@ body {
   color: #ff4500;
   text-decoration: wavy underline;
   text-transform: uppercase;
-  font-family: 'Piazzolla', sans-serif;
+  font-family: "Piazzolla", sans-serif;
 }
 .upPLetter {
   font-size: 59px;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  font-display: swap;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   color: #467abc;
   text-decoration: wavy overline;
   text-decoration-color: #87abac;
-  text-shadow: #000000 2px 2px 4px, #000000 -2px -2px 4px, #000000 2px -2px 4px, #000000 -2px 2px 4px;
+  text-shadow: #000000 2px 2px 4px, #000000 -2px -2px 4px, #000000 2px -2px 4px,
+    #000000 -2px 2px 4px;
 }
 
 /* GARDENING word */
@@ -295,10 +300,10 @@ body {
   color: #ff4500;
   text-decoration: line-through;
   text-transform: uppercase;
-  font-family: 'gothic', sans-serif;
+  font-family: "gothic", sans-serif;
 }
 .gardeningALetter {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-size: 70px;
   color: #abc456;
   text-decoration: wavy line-through;
@@ -325,7 +330,8 @@ body {
 .gardeningNLetter {
   font-size: 50px;
   color: #789abc;
-  text-shadow: #000000 2px 2px 4px, #000000 -2px -2px 4px, #000000 2px -2px 4px, #000000 -2px 2px 4px;;
+  text-shadow: #000000 2px 2px 4px, #000000 -2px -2px 4px, #000000 2px -2px 4px,
+    #000000 -2px 2px 4px;
   text-transform: uppercase;
 }
 .gardeningILetter {
@@ -361,18 +367,20 @@ body {
   font-size: 60px;
   color: #32cd32;
   text-decoration: line-through;
-  text-decoration-style:wavy;
+  text-decoration-style: wavy;
 }
 .becauseCLetter {
   font-size: 50px;
   color: #ff4500;
   text-decoration: underline;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  text-shadow: #000000 2px 2px 4px, #000000 -2px -2px 4px, #000000 2px -2px 4px, #000000 -2px 2px 4px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-shadow: #000000 2px 2px 4px, #000000 -2px -2px 4px, #000000 2px -2px 4px,
+    #000000 -2px 2px 4px;
 }
 .becauseALetter {
   font-style: italic;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
   font-size: 55px;
   color: #87da6e;
 }
@@ -408,13 +416,14 @@ body {
   color: #ff4500;
   text-decoration: dotted overline;
   text-transform: uppercase;
-  font-family: 'Piazzolla', sans-serif;
+  font-family: "Piazzolla", sans-serif;
 }
 .theyHLetter {
   font-family: cursive;
   font-size: 60px;
   font-style: oblique;
-  text-shadow: #000000 4px 6px 4px, #000000 -4px -6px 4px, #000000 4px -6px 4px, #000000 -4px 6px 4px;
+  text-shadow: #000000 4px 6px 4px, #000000 -4px -6px 4px, #000000 4px -6px 4px,
+    #000000 -4px 6px 4px;
 }
 .theyELetter {
   font-size: 45px;
@@ -422,10 +431,10 @@ body {
   text-decoration: line-through;
 }
 .theyYLetter {
-  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   font-size: 25px;
-  text-shadow: #000000 4px 4px 8px, #000000 -4px -4px 8px, #000000 4px -4px 8px, #000000 -4px 4px 8px;
-
+  text-shadow: #000000 4px 4px 8px, #000000 -4px -4px 8px, #000000 4px -4px 8px,
+    #000000 -4px 4px 8px;
 }
 
 /* WANTED word */
@@ -435,11 +444,12 @@ body {
   color: #ff4500;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazzolla', sans-serif;
+  font-family: "Piazzolla", sans-serif;
 }
 .wantedALetter {
   font-style: oblique;
-  text-shadow: #000000 2px 2px 4px, #000000 -2px -2px 4px, #000000 2px -2px 4px, #000000 -2px 2px 4px;
+  text-shadow: #000000 2px 2px 4px, #000000 -2px -2px 4px, #000000 2px -2px 4px,
+    #000000 -2px 2px 4px;
 }
 .wantedNLetter {
   font-size: 60px;
@@ -447,7 +457,6 @@ body {
 }
 .wantedTLetter {
   font-size: 50px;
-  text-transform: small-caps;
   color: #32cd32;
   text-decoration: wavy underline;
 }
@@ -487,7 +496,7 @@ body {
   color: #adebb2;
   text-decoration: wavy line-through;
   text-transform: uppercase;
-  font-family: 'Piazzolla', sans-serif;
+  font-family: "Piazzolla", sans-serif;
   text-decoration-color: darkred;
 }
 .improveMLetter {
@@ -496,22 +505,23 @@ body {
   text-decoration: dashed underline;
   text-decoration-color: darkblue;
   text-transform: uppercase;
-  font-family: 'Raleway Dots', sans-serif;
+  font-family: "Raleway Dots", sans-serif;
 }
 .improvePLetter {
   font-size: 50px;
-  text-shadow: #000000 2px 2px 4px, #000000 -2px -2px 4px, #000000 2px -2px 4px, #000000 -2px 2px 4px;
+  text-shadow: #000000 2px 2px 4px, #000000 -2px -2px 4px, #000000 2px -2px 4px,
+    #000000 -2px 2px 4px;
 }
 .improveRLetter {
   font-size: 50px;
   color: darkred;
   text-decoration: wavy line-through;
   text-transform: uppercase;
-  font-family: 'Piazzolla', sans-serif;
+  font-family: "Piazzolla", sans-serif;
 }
 .improveOLetter {
   font-size: 60px;
-  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   color: #fe53fe;
   text-decoration: line-through;
   text-decoration-style: dashed;
@@ -519,7 +529,8 @@ body {
   text-transform: uppercase;
 }
 .improveVLetter {
-  text-shadow: #000000 2px 2px 4px, #000000 -2px -2px 4px, #000000 2px -2px 4px, #000000 -2px 2px 4px;
+  text-shadow: #000000 2px 2px 4px, #000000 -2px -2px 4px, #000000 2px -2px 4px,
+    #000000 -2px 2px 4px;
   font-size: 50px;
   font-style: italic;
   color: #dabc91;
@@ -531,7 +542,7 @@ body {
   text-decoration: underline;
   text-decoration-color: #ffa500;
   text-transform: uppercase;
-  font-family: 'Raleway Dots', sans-serif;
+  font-family: "Raleway Dots", sans-serif;
 }
 
 /* THEIR word */
@@ -540,7 +551,7 @@ body {
   font-size: 50px;
   color: #cdc929;
   text-decoration: double underline;
-  text-decoration-color: #421adc
+  text-decoration-color: #421adc;
 }
 .theirHLetter {
   font-size: 60px;
@@ -567,7 +578,8 @@ body {
 .theirRLetter {
   font-size: 60px;
   color: #0f0f0f;
-  text-shadow: #f0f0f0 2px 2px 4px, #f0f0f0 -2px -2px 4px, #f0f0f0 2px -2px 4px, #f0f0f0 -2px 2px 4px;
+  text-shadow: #f0f0f0 2px 2px 4px, #f0f0f0 -2px -2px 4px, #f0f0f0 2px -2px 4px,
+    #f0f0f0 -2px 2px 4px;
 }
 
 /* ROOT word */
@@ -578,7 +590,8 @@ body {
   text-decoration: wavy underline;
   text-decoration-color: #22ad32;
   text-transform: uppercase;
-  text-shadow: #245cab 2px 2px 4px, #222adc -2px -2px 4px, #231cdf 2px -2px 4px, #255fff -2px 2px 4px;
+  text-shadow: #245cab 2px 2px 4px, #222adc -2px -2px 4px, #231cdf 2px -2px 4px,
+    #255fff -2px 2px 4px;
 }
 .rootOLetter {
   font-size: 60px;
@@ -592,9 +605,10 @@ body {
   color: #00a2f5;
 }
 .rootTLetter {
-  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: Impact, "Arial Narrow Bold", sans-serif;
   font-style: oblique;
-  text-shadow: #000000 2px 2px 4px, #000000 -2px -2px 4px, #000000 2px -2px 4px, #000000 -2px 2px 4px;
+  text-shadow: #000000 2px 2px 4px, #000000 -2px -2px 4px, #000000 2px -2px 4px,
+    #000000 -2px 2px 4px;
 }
 
 /* SKILLS word */
@@ -606,11 +620,12 @@ body {
   text-decoration: underline;
   text-decoration-color: #452eda;
   text-transform: uppercase;
-  font-family: 'Piazzolla', sans-serif;
+  font-family: "Piazzolla", sans-serif;
 }
 .skillsKLetter {
   font-size: 60px;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   color: #212212;
   text-decoration: line-through;
   text-decoration-style: wavy;
@@ -631,12 +646,14 @@ body {
   color: #faacdc;
   text-decoration: line-through;
   text-decoration-style: dotted;
-  text-decoration-color: #254ab2;  text-transform: uppercase;
+  text-decoration-color: #254ab2;
+  text-transform: uppercase;
 }
 .skillsSTwoLetter {
   font-size: 50px;
   color: #871dce;
-  text-shadow: #000000 2px 2px 4px, #000000 -2px -2px 4px, #000000 2px -2px 4px, #000000 -2px 2px 4px;
+  text-shadow: #000000 2px 2px 4px, #000000 -2px -2px 4px, #000000 2px -2px 4px,
+    #000000 -2px 2px 4px;
 }
 
 /* SYMBOLS */
@@ -646,8 +663,10 @@ body {
   color: #175d8f;
 }
 .exclamation-mark {
-  text-shadow: #000000 4px 6px 4px, #000000 -4px -6px 4px, #000000 4px -6px 4px, #000000 -4px 6px 4px;
+  text-shadow: #000000 4px 6px 4px, #000000 -4px -6px 4px, #000000 4px -6px 4px,
+    #000000 -4px 6px 4px;
 }
 .question-mark {
-  text-shadow: #000000 2px 2px 4px, #000000 -2px -2px 4px, #000000 2px -2px 4px, #000000 -2px 2px 4px;
+  text-shadow: #000000 2px 2px 4px, #000000 -2px -2px 4px, #000000 2px -2px 4px,
+    #000000 -2px 2px 4px;
 }

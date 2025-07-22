@@ -417,6 +417,9 @@ body {
   text-shadow: #000000 4px 6px 4px, #000000 -4px -6px 4px, #000000 4px -6px 4px, #000000 -4px 6px 4px;
 }
 .theyELetter {
+  font-size: 45px;
+  color: #189acd;
+  text-decoration: line-through;
 }
 .theyYLetter {
 }
